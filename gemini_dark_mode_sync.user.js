@@ -5,6 +5,8 @@
 // @grant       none
 // @version     5.5
 // @author      Jeff Byers <jeff@jeffbyers.com>
+// @license     GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt
+// @copyright   Copyright (C) 2024, by Jeff Byers <jeff@jeffbyers.com>
 // @downloadURL https://github.com/j4byers/gemini-dark-mode-sync/raw/main/gemini_dark_mode_sync.user.js
 // @description Synchronizes Google Gemini's dark mode with your system's preference.
 // ==/UserScript==
