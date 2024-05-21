@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name        Gemini Dark Mode Sync
-// @namespace   gemini-dark-mode-sync
+// @namespace   http://www.jeffbyers.com
 // @match       https://gemini.google.com/*
 // @grant       none
 // @version     5.5
-// @author      Jeff Byers <jeff@jeffbyers.com.
+// @author      Jeff Byers <jeff@jeffbyers.com>
+// @downloadURL https://github.com/j4byers/gemini-dark-mode-sync/raw/main/gemini_dark_mode_sync.user.js
 // @description Synchronizes Google Gemini's dark mode with your system's preference.
 // ==/UserScript==
 
